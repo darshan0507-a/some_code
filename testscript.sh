@@ -4,4 +4,7 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This is complete"
 echo " This is ssecond commit"
+echo " This is third commit"
+echo " This is fourth commit"
+
 echo "This was added"
